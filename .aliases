@@ -7,12 +7,11 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # Shortcuts
-alias d="cd ~/Documents/Ale/Source && ls"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/projects"
+alias p="cd ~/Documents/Ale/Source"
 alias g="git"
-alias gsource="source ~/.gvm/bin/gvm-init.sh"
+alias gsource="source /Users/alejandrotocar/.sdkman/bin/sdkman-init.sh"
 alias h="history"
 alias j="jobs"
 alias redis="~/Downloads/redis-3.0.4/src/redis-server"
